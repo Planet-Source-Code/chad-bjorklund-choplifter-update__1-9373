@@ -1,0 +1,60 @@
+Well first off, thank you for downloading my game, I hope you enjoy it.
+
+Controls:
+********************************
+Ctrl = Bombs
+
+Shift = Guns
+
+Arrow keys = respective movement
+
+Escape = Quit
+
+These are the defaults, you may
+define them to be different at
+any time.
+********************************
+
+Object
+********************************
+The object is to save as many
+people as possible before dying.
+You must fly low enough and slow
+enough for them to get on and then
+fly back to base where you drop
+them off.
+*********************************
+
+Things you should know
+*********************************
+You can bomb and shoot the people
+as well as the tanks.  Once a 
+person is dead you get a red
+talley.  If you save him you get
+a black talley.
+
+Tanks take 12 shots (on regular
+difficulty) from the gun to die.  
+The bombs depends on how direct
+of a hit you had.
+
+The tanks will revive after a
+while.  I'm not sure how long,
+but enough to get down and save
+the people.
+
+Difficulty level makes a big
+difference.  You should start out
+easy.
+*********************************
+*********************************
+This is a work in progress.  I'm
+sure there are bugs and things I
+can improve upon.  Please just
+try to bear with me as I come out
+with newr versions.  If you find
+any bugs or have any suggestions,
+PLEASE e-mail me at CEBjorkl@UOP.com
+
+	ENJOY!!!
+
